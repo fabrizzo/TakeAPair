@@ -1,0 +1,9 @@
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Debug\TakeaPair.csprojResolveAssemblyReference.cache
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Debug\TakeaPair.Form1.resources
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Debug\TakeaPair.Properties.Resources.resources
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Debug\TakeaPair.csproj.GenerateResource.Cache
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\bin\Debug\TakeaPair.exe.config
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\bin\Debug\TakeaPair.exe
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\bin\Debug\TakeaPair.pdb
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Debug\TakeaPair.exe
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Debug\TakeaPair.pdb

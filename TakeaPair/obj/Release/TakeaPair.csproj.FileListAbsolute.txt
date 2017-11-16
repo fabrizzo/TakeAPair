@@ -1,0 +1,8 @@
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\bin\Release\TakeaPair.exe.config
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\bin\Release\TakeaPair.exe
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\bin\Release\TakeaPair.pdb
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Release\TakeaPair.Form1.resources
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Release\TakeaPair.Properties.Resources.resources
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Release\TakeaPair.csproj.GenerateResource.Cache
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Release\TakeaPair.exe
+D:\MyProjects\Cpp\TakeaPair\TakeaPair\obj\Release\TakeaPair.pdb
